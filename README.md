@@ -1,4 +1,4 @@
- LSTM Text Generation - Interview Task
+ LSTM Text Generation 
 
  📁 Project Structure
 
